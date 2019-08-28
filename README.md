@@ -1,0 +1,1 @@
+Bichar.com is a social media web application where you can share your thoughts and opinions to the people.
